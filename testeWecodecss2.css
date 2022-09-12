@@ -1,0 +1,328 @@
+body
+{
+  margin: 0px;
+  padding: 0px;
+}
+
+p
+{
+  font-family: SF Pro;
+}
+
+p#titulo1
+{
+  margin-top: 0px;
+  margin-left: 30px;
+  font-size: 20px;
+  color: #232323;
+  font-weight: 100;
+  Line-height: 30px;
+}
+
+
+
+div#retangulo
+{
+  position: absolute;
+  left: 0%;
+  right: 0%;
+  top: 0%;
+  bottom: 0%;
+  width: 375px;
+  height: 64px;
+  margin-bottom: 0px;
+  background-color: #232323;
+ }
+
+div#logotipoHeader
+{
+ margin-top: 19px;
+ margin-left: 129px;
+}
+
+ div#logotipoFooter
+ {
+  margin-left: 16px;
+  margin-top: 56px;
+ }
+ 
+ .textoFooter
+ {
+  font-family: SF Pro;
+  color: #ffffff;
+  text-decoration: underline;
+  font-size: 20px;
+  font-weight: 100;
+  font-family: SF Pro;
+  margin-left: 16px; 
+ }
+ 
+p#chamadaNl
+{
+ font-family: SF Pro;
+  color: #ffffff;
+  font-size: 15px;
+  font-weight: 100;
+  font-family: SF Pro;
+  margin-left: 16px;
+}
+
+div#mainBanner
+{
+  width: 375px;
+  height: 560px;
+  margin-top: 64px;
+  position: absolute;
+}
+
+div#background
+{
+  position: absolute;
+  height: 560px;
+  width: 375px;
+  margin-top: 624px;
+  background-color: #f3f3f3;
+}
+
+.containerD
+{
+ display: inline-block;
+ position: relative;
+ 
+}
+
+.containerD p
+{
+ position: absolute;
+ top: 60px;
+ left: 35px;
+ font-size: 14px;
+ color: #ffffff;
+ font-weight: 100;
+
+}
+
+
+
+
+  div#departamento1
+  {
+    margin-top: 14px;
+    margin-left: 12px;
+    width: 163px;
+    height: 163px;
+    position: absolute;
+  }
+  
+  div#departamento2
+  {
+    margin-top: 14px;
+    margin-left: 197px;
+    width: 163px;
+    height: 163px;
+    position: absolute;
+  }
+  div#departamento3
+  {
+    margin-top: 191px;
+    margin-left: 12px;
+    width: 163px;
+    height: 163px;
+    position: absolute;
+  }
+  
+  div#departamento4
+  {
+    margin-top: 191px;
+    margin-left: 197px;
+    width: 163px;
+    height: 163px;
+    position: absolute;
+  }
+  
+  div#departamento5
+  {
+    margin-top: 368px;
+    margin-left: 12px;
+    width: 163px;
+    height: 163px;
+    position: absolute;
+  }
+  
+  div#departamento6
+  {
+    margin-top: 368px;
+    margin-left: 197px;
+    width: 163px;
+    height: 163px;
+    position: absolute;
+  }
+  
+  div#background2
+{
+  position: absolute;
+  height: 2000px;
+  width: 375px;
+  margin-top: 1180px;
+  background-color: #f3f3f3;
+}
+
+
+.containerV1
+{
+ display: inline-block;
+position: relative;
+}
+
+.containerV1 p
+{
+ position: absolute;
+ top: 10px;
+ left: 10px;
+ font-size: 14px;
+ color: #ffffff;
+ font-weight: 100;
+}
+
+
+div#maisVendido1
+{
+  width: 269px;
+  height:403px;
+  position: absolute;
+  margin-top: 0px;
+  margin-left: 30px;
+}
+ 
+ div#maisVendido2
+{
+  width: 269px;
+  height:403px;
+  position: absolute;
+  margin-top: 423px;
+  margin-left: 30px;
+}
+ 
+ div#maisVendido3
+{
+  width: 269px;
+  height:403px;
+  position: absolute;
+  margin-top: 843px;
+  margin-left: 30px;
+}
+ 
+ .containerM
+{
+ display: inline-block;
+ position: relative;
+}
+
+.containerM p
+{
+ position: absolute;
+ text-align: right;
+ top: 130px;
+ right: 20px;
+ font-size: 20px;
+ color: #ffffff;
+ text-decoration: underline;
+ font-weight: 100;
+
+}
+ 
+div#meio
+{
+  height: 680px;
+  width: 375px;
+  position: absolute;
+  margin-top: 2500px;
+}
+
+ div#bannerMeio1
+ {
+   height: 320px;
+   width: 375px;
+   position: absolute;
+   margin-bottom: 0px;
+  }
+  
+  div#bannerMeio2
+ {
+   height: 320px;
+   width: 375px;
+   position: absolute;
+   margin-top: 320px;
+  }
+ 
+ div#background3
+{
+  position: absolute;
+  height: 1680px;
+  width: 375px;
+  margin-top: 3180px;
+  background-color: #f3f3f3;
+}
+  
+  div#selecionados1
+ {
+   width: 269px;
+   height:403px;
+   position: absolute;
+   margin-top: 0px;
+   margin-left: 30px;
+ }
+  
+  div#selecionados2
+ {
+   width: 269px;
+   height:403px;
+   position: absolute;
+   margin-top: 423px;
+   margin-left: 30px;
+ }
+  
+  div#selecionados3
+ {
+   width: 269px;
+   height:403px;
+   position: absolute;
+   margin-top: 843px;
+   margin-left: 30px;
+ }
+ 
+ div#meio2
+{
+  height: 680px;
+  width: 375px;
+  position: absolute;
+  margin-top: 4500px;
+}
+
+div#background4
+{
+  position: absolute;
+  height: 1320px;
+  width: 375px;
+  margin-top: 4850px;
+  background-color: #f3f3f3;
+}
+
+div#pagPromo
+{
+ width:375px;
+ height:82px;
+ margin-top: 6150px;
+ background-color: #f8f8f8;
+ position: absolute;
+}
+
+footer
+{
+ position: absolute;
+ background-color: #232323;
+ height: 624px;
+ width: 375px;
+ top: 6230px;
+ bottom: 0; 
+}
